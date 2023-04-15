@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>helvetica.ttf</file>
+        <file>EclairageTab.qml</file>
+        <file>images/LightButtonPushed.png</file>
+        <file>images/LightButtonOn.png</file>
+        <file>images/LightButtonOff.png</file>
+        <file>VoletsTab.qml</file>
+        <file>VoletCommande.qml</file>
+        <file>images/ShutterUpOn.png</file>
+        <file>images/ShutterUpOff.png</file>
+        <file>images/ShutterStopOn.png</file>
+        <file>images/ShutterStopOff.png</file>
+        <file>images/ShutterDownOn.png</file>
+        <file>images/ShutterDownOff.png</file>
+    </qresource>
+</RCC>
